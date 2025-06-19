@@ -81,7 +81,7 @@ elif computer_score > user_score:
 else:
     print("No winner")
 
-Line-by-Line Explanation
+### Line-by-Line Explanation
 Import Statement
 
 Line 1: import random
